@@ -1,6 +1,6 @@
 # Nguyen Y Bin
 
-*Backend Developer with expertise in Node.js and distributed systems*
+*Software Engineer*
 
 📱 (+84) 788 77 9029  
 📧 [nguyenybin2015@gmail.com](mailto:nguyenybin2015@gmail.com)  
