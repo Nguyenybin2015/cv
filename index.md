@@ -30,7 +30,7 @@
 
 ---
 ## Projects
-**Cafe POS System** | 11/2023 - 02/2024
+**Cafe POS System** | 01/2025 - 03/2025
 - Developed a comprehensive point-of-sale system for coffee shops
 - Designed and implemented service like microservice architecture using NestJS backend, NextJS admin panel and POS interface, React Native mobile app
 - Implemented distributed system with on-premise master server and cloud-based slave servers
