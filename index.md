@@ -95,6 +95,7 @@
 - **Message Brokers**: Apache Kafka, RabbitMQ, Bull Queue
 - **Other Tools**: Git, Postman, Swagger, Prometheus, Grafana,...
 - **Languages**: Vietnamese (Native), English
+
 ---
 ## Education
 **Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam  
