@@ -2,7 +2,7 @@
 
 *Backend Developer*
 
-🎂 03-09-2004
+🎂 03-09-2004  
 📱 (+84) 788 77 9029  
 📧 [nguyenybin2015@gmail.com](mailto:nguyenybin2015@gmail.com)  
 🔗 [GitHub: Nguyenybin2015](https://github.com/Nguyenybin2015)  
