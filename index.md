@@ -85,6 +85,7 @@
   - Leading technical workshops and training sessions
   - Managing club projects and activities
   - Organizing science and technology events
+
 ---
 ## Technical Skills
 - **Backend Development**: Node.js, NestJS, ExpressJS, KoaJS, RESTful APIs,...
