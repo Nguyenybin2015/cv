@@ -7,6 +7,7 @@
 📧 [nguyenybin2015@gmail.com](mailto:nguyenybin2015@gmail.com)  
 🔗 [GitHub: Nguyenybin2015](https://github.com/Nguyenybin2015)  
 📺 [YouTube: Bin Nguyễn - DevSlave](https://www.youtube.com/@binnguyen9371)  
+🌐 [Portfolio: nibies.space](https://www.nibies.space)
 
 > This CV provides a brief overview of my experience and skills. I welcome the opportunity to discuss my qualifications in greater detail during an interview, where I can more comprehensively demonstrate how my background aligns with your requirements.
 
