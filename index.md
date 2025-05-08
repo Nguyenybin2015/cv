@@ -13,8 +13,9 @@
 ---
 ## Technical Skills
 - **Backend Development**: Node.js, NestJS, ExpressJS, KoaJS, RESTful APIs
-- **Database Technologies**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize
 - **DevOps & Cloud**: Docker, Kubernetes, AWS S3, CI/CD, GitHub Actions, ArgoCD
+- **Frontend Development**: Node.js, NestJS, ExpressJS, KoaJS, RESTful APIs
+- **Database Technologies**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize
 - **Programming Languages**: JavaScript, TypeScript, Python
 - **Message Brokers**: Apache Kafka, RabbitMQ, MQTT
 - **Other Tools**: Git, Postman, Swagger, Prometheus, Grafana
