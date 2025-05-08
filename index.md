@@ -11,6 +11,16 @@
 > This CV provides a brief overview of my experience and skills. I welcome the opportunity to discuss my qualifications in greater detail during an interview, where I can more comprehensively demonstrate how my background aligns with your requirements.
 
 ---
+## Technical Skills
+- **Backend Development**: Node.js, NestJS, ExpressJS, KoaJS, RESTful APIs
+- **Database Technologies**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize
+- **DevOps & Cloud**: Docker, Kubernetes, AWS S3, CI/CD, GitHub Actions, ArgoCD
+- **Programming Languages**: JavaScript, TypeScript, Python
+- **Message Brokers**: Apache Kafka, RabbitMQ
+- **Other Tools**: Git, Postman, Swagger, Prometheus, Grafana
+- **Languages**: Vietnamese (Native), English
+
+---
 ## Experience
 **Junior Backend Developer** | Estuary Solutions | 04/2024 - Present
 - Developing e-commerce platform and Loyalty programs
@@ -31,50 +41,41 @@
 ---
 ## Projects
 **Cafe POS System** | 01/2025 - 03/2025
-- Developed a comprehensive point-of-sale system for coffee shops
-- Designed and implemented service like microservice architecture using NestJS backend, NextJS admin panel and POS interface, React Native mobile app
-- Implemented distributed system with on-premise master server and cloud-based slave servers
-- Utilized PostgreSQL for data persistence with replication across nodes
-- Deployed with Docker Swarm for container orchestration and service redundancy
-- Configured Cloudflare Tunnel for secure remote access without exposing ports
-- Used AWS S3 for backup storage and media assets management
-- Set up CI/CD pipelines with GitHub Actions for automated testing and deployment
-- Integrated commit alerts and deployment notifications to Google Chat
-- Implemented Firebase Cloud Messaging (FCM) for real-time notifications about successful payments
-- Set up monitoring with Grafana alerting through Google Chat for real-time system health insights
-- Created dashboards for performance tracking and anomaly detection
-- [Project Repository](https://github.com/orgs/BPC-POS/repositories)
-- [Admin Page](https://admin-bpc-pos.nibies.space)
+> Built a full-featured POS system for coffee shops, with plans to migrate to a multi-tenant architecture to support scalable, multi-business deployment.
+- *Team size*: 3
+- *Technology used*: Microservices architecture with NestJS and Python services, NextJS, React Native, orchestrated Docker Swarm, CI/CD with GitHub Actions, AWS S3, PostgreSQL, AWS S3, Redis, Terraform, PostgreSQL replication, FCM, Grafana and Prometheus, ELK Stack, Hybrid Cloud on-premise master server and cloud-based slave servers
+- [GitHub Organization Repositories](https://github.com/orgs/BPC-POS/repositories)
+<!-- - [Admin Page](https://admin-bpc-pos.nibies.space) -->
 
 **AI Music Generation Platform** | 11/2024 - 11/2024
-- Developing an AI-powered music generation platform using Meta's MusicGen model
-- Built microservices architecture with NestJS and Python services
-- Implemented CI/CD pipelines using GitHub Actions for automated testing and deployment
-- Orchestrated containerized services with Docker Swarm for high availability
-- Used Apache Kafka for async processing of music generation and image creation tasks
-- Utilized Stable Diffusion for AI-generated album artwork
-- Managed audio, image storage with AWS S3 and metadata in PostgreSQL
-- Implemented Redis caching and queue
-- [Project Repository](https://github.com/orgs/n4music/repositories)
+> Developed an AI-powered platform for generating music using Meta's MusicGen model.
+
+- **Team size**: 4
+- **Key technologies**: Microservices architecture with NestJS and Python services, Next.js (web), React Native (mobile), Docker Swarm for orchestration, CI/CD with GitHub Actions, Apache Kafka, Stable Diffusion (for visuals), AWS S3, PostgreSQL, Redis
+- [GitHub Organization Repositories](https://github.com/orgs/n4music/repositories)
+
 
 **Smart Airport Passenger Support System** | 01/2024 - 04/2024
-- Developed prototype system for passenger assistance at airports
-- Implemented flight information display and voice assistant features using NextJS and Python
-- Integrated LLM for natural language processing and YOLO for computer vision
-- Utilized Tinker Board R2.0 and E-ra IoT platform for hardware integration 
-- Collaborated in a team of 5 as a core developer
+> Developed prototype system for passenger assistance at airports
+- *Team size*: 5
+- *Technology used*: NextJS, Python, C++, NodeJS, Tinker Board R2.0 and E-ra IoT, LangChain, LLM
 - [Articles in VnExpress](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
 
 **Smart Drowning Rescue Bracelet** | 01/2024 - 10/2024
-- Designing automatic buoy deployment system for drowning prevention
-- Implementing deep learning models using CNN and TensorFlow
-- Developing Arduino-based hardware solutions
-- Working in a 2-person team as lead developer
+> Designing automatic buoy deployment system for drowning prevention
+- *Team size*: 3
+- *Technology used*: Deep learning models using CNN and TensorFlow, Arduino, NextJS, C++, Python, NodeJS, Multi Thread, Tinker Board R2.0
 - [Articles](https://fitvaa.edu.vn/Public/Science/ViewPublicRe/Khoa_Cong_Nghe_Thong_Tin_Hoc_Vien_Hang_khong_Viet_Nam/lkJHTy@986.VAA)
 
 ---
-## Awards and Honors
+## Education
+**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam  
+Information Technology | 2022 - 2025
 
+---
+## Awards and Honors
+- **Featured in VnExpress**, National recognition for Smart Airport project
+  - [Article in VnExpress](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
 - **Potential Prize**, IoT Innovation Contest 2024, Nguyen Tat Thanh University
 - **Speaker**, Arduino Workshop at [Youth Science Club](https://youthscience.club), Vietnam Aviation Academy
 - **Research Assistant**, Research Lab, Vietnam Aviation Academy
@@ -85,18 +86,3 @@
   - Leading technical workshops and training sessions
   - Managing club projects and activities
   - Organizing science and technology events
-
----
-## Technical Skills
-- **Backend Development**: Node.js, NestJS, ExpressJS, KoaJS, RESTful APIs,...
-- **Database Technologies**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize,...
-- **DevOps & Cloud**: Docker, Kubernetes, AWS S3, CI/CD, GitHub Actions, ArgoCD,...
-- **Programming Languages**: JavaScript, TypeScript, Python,...
-- **Message Brokers**: Apache Kafka, RabbitMQ, Bull Queue
-- **Other Tools**: Git, Postman, Swagger, Prometheus, Grafana,...
-- **Languages**: Vietnamese (Native), English
-
----
-## Education
-**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam  
-B.Eng. in Information Technology | 2022 - 2025
