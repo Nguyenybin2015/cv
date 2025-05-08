@@ -44,8 +44,8 @@
 **Cafe POS System** | 01/2025 - 03/2025
 > Built a full-featured POS system for coffee shops, with plans to migrate to a multi-tenant architecture to support scalable, multi-business deployment.
 
-- *Team size*: 3
-- *Technology used*: Microservices architecture with NestJS and Python services, NextJS (web), React Native (mobile), Docker Swarm for orchestration, CI/CD with GitHub Actions, Terraform, PostgreSQL replication, AWS S3, Redis, FCM, Grafana and Prometheus, ELK Stack, Hybrid Cloud on-premise master server and cloud-based slave servers
+- **Team size**: 3
+- **Key technologies**: Microservices architecture with NestJS and Python services, NextJS (web), React Native (mobile), Docker Swarm for orchestration, CI/CD with GitHub Actions, Terraform, PostgreSQL replication, AWS S3, Redis, FCM, Grafana and Prometheus, ELK Stack, Hybrid Cloud on-premise master server and cloud-based slave servers
 - [GitHub Organization Repositories](https://github.com/orgs/BPC-POS/repositories)
 <!-- - [Admin Page](https://admin-bpc-pos.nibies.space) -->
 
@@ -60,15 +60,15 @@
 **Smart Airport Passenger Support System** | 01/2024 - 04/2024
 > Developed prototype system for passenger assistance at airports
 
-- *Team size*: 5
-- *Technology used*: NextJS, Python, C++, NodeJS, Tinker Board R2.0 and E-ra IoT, LangChain, LLM
+- **Team size**: 5
+- **Key technologies**: NextJS, Python, C++, NodeJS, Tinker Board R2.0 and E-ra IoT, LangChain, LLM
 - [Articles in VnExpress](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
 
 **Smart Drowning Rescue Bracelet** | 01/2024 - 10/2024
 > Designing automatic buoy deployment system for drowning prevention
 
-- *Team size*: 3
-- *Technology used*: Deep learning models using CNN and TensorFlow, Arduino, NextJS, C++, Python, NodeJS, Multi Thread, Tinker Board R2.0
+- **Team size**: 3
+- **Key technologies**: Deep learning models using CNN and TensorFlow, Arduino, NextJS, C++, Python, NodeJS, Multi Thread, Tinker Board R2.0
 - [Articles](https://fitvaa.edu.vn/Public/Science/ViewPublicRe/Khoa_Cong_Nghe_Thong_Tin_Hoc_Vien_Hang_khong_Viet_Nam/lkJHTy@986.VAA)
 
 ---
