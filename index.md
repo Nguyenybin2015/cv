@@ -1,31 +1,37 @@
 # Nguyen Y Bin
+**Backend Developer**
 
-*Backend Developer*
+📧 nguyenybin2015@gmail.com | 📱 (+84) 788 77 9029 | 🔗 [GitHub](https://github.com/Nguyenybin2015) | 🌐 [Portfolio](https://www.nibies.space)  
+📍 Ho Chi Minh City, Vietnam
 
-🎂 03-09-2004  
-📱 (+84) 788 77 9029  
-📧 [nguyenybin2015@gmail.com](mailto:nguyenybin2015@gmail.com)  
-🔗 [GitHub: Nguyenybin2015](https://github.com/Nguyenybin2015)  
-📺 [YouTube: Bin Nguyễn - DevSlave](https://www.youtube.com/@binnguyen9371)  
-🌐 [Portfolio: nibies.space](https://www.nibies.space)
-
-> This CV provides a brief overview of my experience and skills. I welcome the opportunity to discuss my qualifications in greater detail during an interview, where I can more comprehensively demonstrate how my background aligns with your requirements.
+## 🚀 Professional Summary
+**2+ years** of backend development experience specializing in **Node.js ecosystem** and **scalable web applications**. Proven track record in developing **high-performance e-commerce platforms** and **Loyalty programs** serving **150,000+ active users**. Expert in **API development**, **database optimization**.
 
 ---
-## Technical Skills
-- **Backend Development**: Node.js, NestJS, ExpressJS, KoaJS, BunJS
-- **DevOps & Cloud**: Docker, Kubernetes, AWS S3, CI/CD, GitHub Actions, ArgoCD
-- **Frontend Development**: ReactJS, NextJS
-- **Database Technologies**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize
-- **Programming Languages**: JavaScript, TypeScript, Python
-- **Message Brokers**: Apache Kafka, RabbitMQ, MQTT
-- **Other Tools**: Git, Postman, Swagger, Prometheus, Grafana
+## 🛠️ Technical Skills
+### **Backend Development**
+- **Node.js Ecosystem**: NestJS, ExpressJS, KoaJS, BunJS
+- **Languages**: JavaScript, TypeScript, Python
+- **Database**: PostgreSQL, MySQL, Elasticsearch, Redis, TypeORM, Sequelize
+- **Message Brokers**: Redis PubSub, MQTT, Apache Kafka, RabbitMQ
+
+### **DevOps & Cloud Infrastructure**
+- **Containerization**: Docker, Kubernetes, Docker Swarm
+- **Cloud Platforms**: AWS (S3, EC2, Lambda), MinIO, Blob Storage
+- **CI/CD**: GitHub Actions, ArgoCD
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Infrastructure**: Terraform, Hybrid Cloud deployment
+
+### **Additional Technologies**
+- **Frontend**: ReactJS, NextJS, React Native, Tailwind CSS, Shadcn
+- **Mobile**: React Native, Expo, LynxJS
+- **Tools**: Git, Postman, Swagger, Bull Queue, Cronjob
 - **Languages**: Vietnamese (Native), English
 
 ---
 ## Experience
 **Junior Backend Developer** | Estuary Solutions | 04/2024 - Present
-- Developing e-commerce platform and Loyalty programs
+- Developing e-commerce platform, Loyalty programs serving **150,000+ active users**
 - Building RESTful APIs using Node.js frameworks (NestJS, KoaJS, ExpressJS)
 - Implemented database solutions with PostgreSQL, MySQL, Elasticsearch using TypeORM and Sequelize
 - Managed asynchronous processing with Bull Queue and scheduled tasks with Cronjob
@@ -34,11 +40,21 @@
 - Utilized Python with Streamlit for creating ad-hoc tools and quick data processing tasks
 - Collaborated with Product Managers, Business Analysts, and QA testers in an Agile environment
 
+**Freelance Backend Developer & Research Assistant** | Self-employed & Vietnam Aviation Academy | 08/2023 - 03/2024
+- Developed custom backend solutions for small businesses using Node.js and Python
+- Participated in multiple technology competitions and IoT innovation contests
+- Conducted research on machine learning applications in aviation systems
+- Built prototypes for Smart Airport and Smart Drowning Rescue systems
+- **Featured in VnExpress** for Smart Airport project achieving national recognition
+- Collaborated with research teams on funded projects and technical publications
+- Gained hands-on experience with IoT devices, embedded systems, and AI integration
+- [VnExpress Article](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
+
 **Intern Backend Developer** | ePlus Technology Solutions | 04/2023 - 07/2023
 - Developed RESTful APIs for authentication, 2FA, and banking services
 - Implemented user authorization and role-based access control
 - Created and maintained MySQL database schemas
-- Crawl data in block site by cloudflare
+- Data crawling and web scraping with anti-bot protection bypass
 
 ---
 ## Projects
@@ -73,13 +89,13 @@
 - [Articles](https://fitvaa.edu.vn/Public/Science/ViewPublicRe/Khoa_Cong_Nghe_Thong_Tin_Hoc_Vien_Hang_khong_Viet_Nam/lkJHTy@986.VAA)
 
 ---
-## Education
+## 🎓 Education
 **Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam  
 Information Technology | 2022 - 2025  
 GPA: 3.02/4.0
 
 ---
-## Awards and Honors
+## 🏅 Awards and Honors
 - **Featured in VnExpress**, National recognition for Smart Airport project
   - [Article in VnExpress](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
 - **Potential Prize**, IoT Innovation Contest 2024, Nguyen Tat Thanh University
